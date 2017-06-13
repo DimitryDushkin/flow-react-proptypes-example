@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
-import { SomeNestedType } from './types.js';
+import type { SomeNestedType } from './types.js';
 
 type Props = SomeNestedType;
 
