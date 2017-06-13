@@ -1,3 +1,4 @@
+// @flow
 export type SomeNestedType = {
 	a: string,
 	b: string,
